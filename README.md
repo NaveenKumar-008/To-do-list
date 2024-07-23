@@ -210,4 +210,5 @@ loadTasks();
 ```
 ## Output
 
-![image](https://github.com/AshikaJubi/To-do-list/assets/129098066/f6097c80-0ee1-4f38-b81b-33dc1ae21a73)
+![Screenshot (73)](https://github.com/user-attachments/assets/4ebd37ba-7bc0-438e-be7d-9a12b614df7b)
+
